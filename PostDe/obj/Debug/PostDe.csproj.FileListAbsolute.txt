@@ -1,0 +1,10 @@
+C:\Users\v-jinxwu.FAREAST\source\repos\PostDe\PostDe\bin\PostDe.dll.config
+C:\Users\v-jinxwu.FAREAST\source\repos\PostDe\PostDe\bin\PostDe.dll
+C:\Users\v-jinxwu.FAREAST\source\repos\PostDe\PostDe\bin\PostDe.pdb
+C:\Users\v-jinxwu.FAREAST\source\repos\PostDe\PostDe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\v-jinxwu.FAREAST\source\repos\PostDe\PostDe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\v-jinxwu.FAREAST\source\repos\PostDe\PostDe\obj\Debug\PostDe.csprojResolveAssemblyReference.cache
+C:\Users\v-jinxwu.FAREAST\source\repos\PostDe\PostDe\obj\Debug\PostDe.csproj.CoreCompileInputs.cache
+C:\Users\v-jinxwu.FAREAST\source\repos\PostDe\PostDe\obj\Debug\PostDe.dll
+C:\Users\v-jinxwu.FAREAST\source\repos\PostDe\PostDe\obj\Debug\PostDe.pdb
+C:\Users\v-jinxwu.FAREAST\source\repos\PostDe\PostDe\bin\Newtonsoft.Json.dll
