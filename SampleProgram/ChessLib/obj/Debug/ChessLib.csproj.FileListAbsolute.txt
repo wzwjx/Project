@@ -1,0 +1,5 @@
+D:\QQPCmgr\Desktop\SampleProgram\ChessLib\bin\Debug\ChessLib.dll
+D:\QQPCmgr\Desktop\SampleProgram\ChessLib\bin\Debug\ChessLib.pdb
+D:\QQPCmgr\Desktop\SampleProgram\ChessLib\obj\Debug\ChessLib.csprojResolveAssemblyReference.cache
+D:\QQPCmgr\Desktop\SampleProgram\ChessLib\obj\Debug\ChessLib.dll
+D:\QQPCmgr\Desktop\SampleProgram\ChessLib\obj\Debug\ChessLib.pdb

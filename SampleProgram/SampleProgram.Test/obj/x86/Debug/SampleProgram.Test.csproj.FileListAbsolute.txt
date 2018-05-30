@@ -1,0 +1,12 @@
+D:\QQPCmgr\Desktop\SampleProgram\SampleProgram.Test\bin\Debug\SampleProgram.Test.exe
+D:\QQPCmgr\Desktop\SampleProgram\SampleProgram.Test\bin\Debug\SampleProgram.Test.pdb
+D:\QQPCmgr\Desktop\SampleProgram\SampleProgram.Test\bin\Debug\ChessLib.dll
+D:\QQPCmgr\Desktop\SampleProgram\SampleProgram.Test\bin\Debug\nunit-console-runner.dll
+D:\QQPCmgr\Desktop\SampleProgram\SampleProgram.Test\bin\Debug\nunit.framework.dll
+D:\QQPCmgr\Desktop\SampleProgram\SampleProgram.Test\bin\Debug\nunit.util.dll
+D:\QQPCmgr\Desktop\SampleProgram\SampleProgram.Test\bin\Debug\nunit.core.interfaces.dll
+D:\QQPCmgr\Desktop\SampleProgram\SampleProgram.Test\bin\Debug\nunit.core.dll
+D:\QQPCmgr\Desktop\SampleProgram\SampleProgram.Test\bin\Debug\ChessLib.pdb
+D:\QQPCmgr\Desktop\SampleProgram\SampleProgram.Test\obj\x86\Debug\SampleProgram.Test.csprojResolveAssemblyReference.cache
+D:\QQPCmgr\Desktop\SampleProgram\SampleProgram.Test\obj\x86\Debug\SampleProgram.Test.exe
+D:\QQPCmgr\Desktop\SampleProgram\SampleProgram.Test\obj\x86\Debug\SampleProgram.Test.pdb
