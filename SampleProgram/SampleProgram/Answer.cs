@@ -26,7 +26,7 @@ namespace SampleProgram
             var Queen_pos = _startPosition;
             var Knight_pos = _startPosition;
             var Bishop_pos = _startPosition;
-            Console.WriteLine("0: My position is {0}", _startPosition);
+            Console.WriteLine("0: My Inint position is {0}", _startPosition);
 
 
             for (var move = 1; move <= moves; move++)
@@ -34,20 +34,32 @@ namespace SampleProgram
                 int i = _rnd.Next(1, 4); //Randomly obtained 1 to 3, corresponding to three pieces of random movement.
                 if (i==1)
                 {
-                    var possibleMoves = Queen.ValidMovesFor(Queen_pos).ToArray();
-                    Queen_pos = possibleMoves[_rnd.Next(possibleMoves.Length)];
+                    var possibleMoves = Queen.ValidMovesFor(Queen_pos).ToList();
+                    if (possibleMoves.Contains(Knight_pos))
+                        possibleMoves.Remove(Knight_pos);
+                    if (possibleMoves.Contains(Bishop_pos))
+                        possibleMoves.Remove(Bishop_pos);
+                    Queen_pos = possibleMoves[_rnd.Next(possibleMoves.Count)];
                     Console.WriteLine("{1}: My Queen position is {0}", Queen_pos, move);
                 }
                 if (i == 2)
                 {
-                    var possibleMoves = Knight.ValidMovesFor(Knight_pos).ToArray();
-                    Knight_pos = possibleMoves[_rnd.Next(possibleMoves.Length)];
+                    var possibleMoves = Knight.ValidMovesFor(Knight_pos).ToList();
+                    if (possibleMoves.Contains(Queen_pos))
+                        possibleMoves.Remove(Queen_pos);
+                    if (possibleMoves.Contains(Bishop_pos))
+                        possibleMoves.Remove(Bishop_pos);
+                    Knight_pos = possibleMoves[_rnd.Next(possibleMoves.Count)];
                     Console.WriteLine("{1}: My Knight position is {0}", Knight_pos, move);
                 }
                 if (i == 3)
                 {
-                    var possibleMoves = Bishop.ValidMovesFor(Bishop_pos).ToArray();
-                    Bishop_pos = possibleMoves[_rnd.Next(possibleMoves.Length)];
+                    var possibleMoves = Bishop.ValidMovesFor(Bishop_pos).ToList();
+                    if (possibleMoves.Contains(Queen_pos))
+                        possibleMoves.Remove(Queen_pos);
+                    if (possibleMoves.Contains(Knight_pos))
+                        possibleMoves.Remove(Knight_pos);
+                    Bishop_pos = possibleMoves[_rnd.Next(possibleMoves.Count)];
                     Console.WriteLine("{1}: My Bishop_pos position is {0}", Bishop_pos, move);
                 }
                 
@@ -55,6 +67,7 @@ namespace SampleProgram
         }
     }
  
+    //Move rule of Bishop
     public class BishopMove
     {
         public static readonly int[,] Directions = new[,] { { -1, 1 }, { -1, -1 }, { 1, 1 }, { 1, -1 } };   //Defining Bishop's direction of movement。
@@ -75,6 +88,7 @@ namespace SampleProgram
         }
     }
 
+    //Move rule of Queen
     public class QueenMove
     {
         public static readonly int[,] Directions = new[,] { { -1, 1 }, { -1, -1 }, { 1, 1 }, { 1, -1 }, { 1, 0 }, { -1, 0 }, { 0, 1 }, { 0, -1 } };   //Defining Queen's direction of movement。

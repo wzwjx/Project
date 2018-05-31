@@ -13,7 +13,7 @@ namespace SampleProgram
             //game.Play(15);
             var game = new ComplexGame();
             game.Setup();
-            game.Play(15);
+            game.Play(100);
             Console.WriteLine("Press any key ...");
             Console.ReadKey();
         }

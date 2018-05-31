@@ -5,3 +5,11 @@ D:\QQPCmgr\Desktop\SampleProgram\SampleProgram\bin\Debug\ChessLib.pdb
 D:\QQPCmgr\Desktop\SampleProgram\SampleProgram\obj\x86\Debug\SampleProgram.csprojResolveAssemblyReference.cache
 D:\QQPCmgr\Desktop\SampleProgram\SampleProgram\obj\x86\Debug\SampleProgram.exe
 D:\QQPCmgr\Desktop\SampleProgram\SampleProgram\obj\x86\Debug\SampleProgram.pdb
+C:\Users\v-jinxwu.FAREAST\Desktop\Project-master\Project-master\SampleProgram\SampleProgram\bin\Debug\SampleProgram.exe
+C:\Users\v-jinxwu.FAREAST\Desktop\Project-master\Project-master\SampleProgram\SampleProgram\bin\Debug\SampleProgram.pdb
+C:\Users\v-jinxwu.FAREAST\Desktop\Project-master\Project-master\SampleProgram\SampleProgram\bin\Debug\ChessLib.dll
+C:\Users\v-jinxwu.FAREAST\Desktop\Project-master\Project-master\SampleProgram\SampleProgram\bin\Debug\ChessLib.pdb
+C:\Users\v-jinxwu.FAREAST\Desktop\Project-master\Project-master\SampleProgram\SampleProgram\obj\x86\Debug\SampleProgram.csprojResolveAssemblyReference.cache
+C:\Users\v-jinxwu.FAREAST\Desktop\Project-master\Project-master\SampleProgram\SampleProgram\obj\x86\Debug\SampleProgram.csproj.CoreCompileInputs.cache
+C:\Users\v-jinxwu.FAREAST\Desktop\Project-master\Project-master\SampleProgram\SampleProgram\obj\x86\Debug\SampleProgram.exe
+C:\Users\v-jinxwu.FAREAST\Desktop\Project-master\Project-master\SampleProgram\SampleProgram\obj\x86\Debug\SampleProgram.pdb

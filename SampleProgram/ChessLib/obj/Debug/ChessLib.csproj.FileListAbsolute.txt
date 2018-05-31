@@ -3,3 +3,9 @@ D:\QQPCmgr\Desktop\SampleProgram\ChessLib\bin\Debug\ChessLib.pdb
 D:\QQPCmgr\Desktop\SampleProgram\ChessLib\obj\Debug\ChessLib.csprojResolveAssemblyReference.cache
 D:\QQPCmgr\Desktop\SampleProgram\ChessLib\obj\Debug\ChessLib.dll
 D:\QQPCmgr\Desktop\SampleProgram\ChessLib\obj\Debug\ChessLib.pdb
+C:\Users\v-jinxwu.FAREAST\Desktop\Project-master\Project-master\SampleProgram\ChessLib\bin\Debug\ChessLib.dll
+C:\Users\v-jinxwu.FAREAST\Desktop\Project-master\Project-master\SampleProgram\ChessLib\bin\Debug\ChessLib.pdb
+C:\Users\v-jinxwu.FAREAST\Desktop\Project-master\Project-master\SampleProgram\ChessLib\obj\Debug\ChessLib.csprojResolveAssemblyReference.cache
+C:\Users\v-jinxwu.FAREAST\Desktop\Project-master\Project-master\SampleProgram\ChessLib\obj\Debug\ChessLib.csproj.CoreCompileInputs.cache
+C:\Users\v-jinxwu.FAREAST\Desktop\Project-master\Project-master\SampleProgram\ChessLib\obj\Debug\ChessLib.dll
+C:\Users\v-jinxwu.FAREAST\Desktop\Project-master\Project-master\SampleProgram\ChessLib\obj\Debug\ChessLib.pdb
