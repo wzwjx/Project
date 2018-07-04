@@ -1,0 +1,7 @@
+D:\ShareFolder\SearchinandSorting\SearchinandSorting\bin\Debug\SearchinandSorting.exe.config
+D:\ShareFolder\SearchinandSorting\SearchinandSorting\bin\Debug\SearchinandSorting.exe
+D:\ShareFolder\SearchinandSorting\SearchinandSorting\bin\Debug\SearchinandSorting.pdb
+D:\ShareFolder\SearchinandSorting\SearchinandSorting\obj\Debug\SearchinandSorting.csprojResolveAssemblyReference.cache
+D:\ShareFolder\SearchinandSorting\SearchinandSorting\obj\Debug\SearchinandSorting.csproj.CoreCompileInputs.cache
+D:\ShareFolder\SearchinandSorting\SearchinandSorting\obj\Debug\SearchinandSorting.exe
+D:\ShareFolder\SearchinandSorting\SearchinandSorting\obj\Debug\SearchinandSorting.pdb

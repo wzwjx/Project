@@ -1,0 +1,14 @@
+C:\Users\v-jinxwu.FAREAST\source\repos\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe.config
+C:\Users\v-jinxwu.FAREAST\source\repos\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe
+C:\Users\v-jinxwu.FAREAST\source\repos\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.pdb
+C:\Users\v-jinxwu.FAREAST\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csprojResolveAssemblyReference.cache
+C:\Users\v-jinxwu.FAREAST\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\v-jinxwu.FAREAST\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.exe
+C:\Users\v-jinxwu.FAREAST\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.pdb
+D:\ShareFolder\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe.config
+D:\ShareFolder\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe
+D:\ShareFolder\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.pdb
+D:\ShareFolder\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csprojResolveAssemblyReference.cache
+D:\ShareFolder\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csproj.CoreCompileInputs.cache
+D:\ShareFolder\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.exe
+D:\ShareFolder\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.pdb
